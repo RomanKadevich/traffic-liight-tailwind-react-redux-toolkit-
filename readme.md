@@ -1,0 +1,1 @@
+traffic light project using: tailwind react redux toolkit
